@@ -96,7 +96,7 @@
 .box{
     width: 230px;
     height: 280px;
-    box-shadow: 4px 4px 15px gray ;
+    box-shadow: 4px 4px 15px rgb(255, 50, 50) ;
     background-color: rgb(0, 0, 0);
     text-align: center;
     padding: 15px;
@@ -106,7 +106,7 @@
     width: 70px;
 }
 .box-btn{
-    background-color: grey;
+    background-color: rgb(98, 98, 98);
     margin-top: 10px;
 }
 .box-title{
@@ -122,4 +122,49 @@
 }
 .our{
     background-color: rgb(133, 133, 133);
+}
+.last-part{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    color: #ffffff;
+}
+.ok{
+    justify-content: space-around;
+    padding: 10px 20px ;
+    margin: 20px 30px;
+}
+.first{
+    border-right: 30px;
+}
+.list-title{
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+li{
+    padding-bottom: 5px ;
+}
+.geek{
+    font-size:xx-large;
+    padding-bottom: 20px;
+}
+ol{
+    list-style: none;
+}
+.contact-ionformation{
+    padding-bottom: 5px ;
+}
+
+footer{
+    background-color: black;
+    color: #ffffff;
+}
+
+hr{
+
+}
+footer{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
 }
